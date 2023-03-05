@@ -1,5 +1,10 @@
 ﻿# Release Notes 
 
+## 0.0.7 (2023-03-05)
+- Changed underlying AI model from da-vinci to chat-gpt-3.5-turbo.
+- Implemented progress-window with cancel button. 
+- Bug fixes. Optimizations.
+
 ## 0.0.6 (2023-03-04)
 - You can now reject/view/modify individual elements in the suggestion window. 
 
