@@ -1,5 +1,11 @@
 ﻿# Release Notes 
 
+## 0.0.9
+- The selection is now processed as a unit rather than by element.
+
+## 0.0.8
+- Bug fixes. 
+
 ## 0.0.7 (2023-03-05)
 - Changed underlying AI model from da-vinci to chat-gpt-3.5-turbo.
 - Implemented progress-window with cancel button. 
