@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.0.10
+- Topics are no longer auto-saved before processing.
+
 ## 0.0.9
 - The selection is now processed as a unit rather than by element.
 
