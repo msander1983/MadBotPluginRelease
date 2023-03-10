@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.0.11
+- Bug fixes.
+
 ## 0.0.10
 - Topics are no longer auto-saved before processing.
 
@@ -10,7 +13,7 @@
 - Bug fixes. 
 
 ## 0.0.7 (2023-03-05)
-- Changed underlying AI model from da-vinci to chat-gpt-3.5-turbo.
+- Changed the underlying AI model from da-vinci to chat-gpt-3.5-turbo.
 - Implemented progress-window with cancel button. 
 - Bug fixes. Optimizations.
 
