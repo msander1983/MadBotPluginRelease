@@ -1,5 +1,10 @@
 ﻿# Release Notes 
 
+## 0.0.12
+- Limit to the size of the selection to avoid error messages from the MadBot API. 
+- Better error messages. 
+- A few new functions added. 
+
 ## 0.0.11
 - Bug fixes.
 
