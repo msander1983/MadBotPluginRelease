@@ -1,5 +1,9 @@
 ﻿# Release Notes 
 
+## 0.1.0
+- Support for custom commands. 
+- License locked to individual machines.
+
 ## 0.0.13
 - New functions.
 
