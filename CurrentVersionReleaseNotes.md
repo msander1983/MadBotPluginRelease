@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.1
+- More robust scanning of whole topics. 
+
 ## 0.2.0
 - License locking improved. 
 
