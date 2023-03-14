@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.0
+- License locking improved. 
+
 ## 0.1.0
 - Support for custom commands. 
 - License locked to individual machines.
