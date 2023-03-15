@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.3
+- Another licensing bug fixed. 
+
 ## 0.2.2
 - Fixed licensing bug
 
