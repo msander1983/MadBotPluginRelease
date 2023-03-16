@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.4
+- It's now less probable that a keyword is removed in the suggestion by the MadBot.		
+
 ## 0.2.3
 - Another licensing bug fixed. 
 
