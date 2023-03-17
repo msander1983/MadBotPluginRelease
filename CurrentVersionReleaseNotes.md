@@ -1,7 +1,10 @@
 ﻿# Release Notes 
 
+## 0.2.7
+- Rolled back update of Newtonsoft.Json.
+
 ## 0.2.6
-- Updated Newtonsoft.Json to support Flare 2022r2.
+- Updated Newtonsoft.Json to support Flare 2022r3.
 
 ## 0.2.5
 - Set up error reporting for a MadCap Flare bug. 
