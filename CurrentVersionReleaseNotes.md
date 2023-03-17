@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.6
+- Updated Newtonsoft.Json to support Flare 2022r2.
+
 ## 0.2.5
 - Set up error reporting for a MadCap Flare bug. 
 - Added prompt to create a bullet list from the selection.
