@@ -1,5 +1,10 @@
 ﻿# Release Notes 
 
+## 0.2.5
+- Set up error reporting for a MadCap Flare bug. 
+- Added prompt to create a bullet list from the selection.
+- Changed "Make Task Oriented" to "Make User Oriented"
+
 ## 0.2.4
 - It's now less probable that a keyword is removed in the suggestion by the MadBot.		
 
