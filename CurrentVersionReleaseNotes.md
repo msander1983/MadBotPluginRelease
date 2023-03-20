@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.9
+- Better exception handling for API exceptions.
+
 ## 0.2.8
 - Added support for Newtonsoft.Json with Flare 2022r3.
 - You can now inspect the detailed code changes. 
