@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.10
+- More specific and robust prompts. 
+
 ## 0.2.9
 - Better exception handling for API exceptions.
 
