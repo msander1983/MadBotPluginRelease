@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.12
+- Local backup function implemented.
+
 ## 0.2.11
 - Better code preview with the inspect changes button.
 
