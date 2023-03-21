@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.14
+- "Try Again" button in the "Implement Suggestions" window so that you easily can try a different suggestion.
+
 ## 0.2.13
 - Quick Access Icons now supported. 
 
