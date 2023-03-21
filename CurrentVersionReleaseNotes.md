@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.13
+- Quick Access Icons now supported. 
+
 ## 0.2.12
 - Local backup function implemented.
 
