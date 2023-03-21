@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.11
+- Better code preview with the inspect changes button.
+
 ## 0.2.10
 - More specific and robust prompts. 
 
