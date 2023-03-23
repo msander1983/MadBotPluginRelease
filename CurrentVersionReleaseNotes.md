@@ -1,7 +1,11 @@
 ﻿# Release Notes 
 
+## 0.2.15
+- Changes to a single table cell no longer causes the entire table to appear as new. 
+
 ## 0.2.14
 - "Try Again" button in the "Implement Suggestions" window so that you easily can try a different suggestion.
+- New prompt to create a table from the selection
 
 ## 0.2.13
 - Quick Access Icons now supported. 
