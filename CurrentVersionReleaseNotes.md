@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.17
+- You can now write your own prompt to edit or generate content. 
+
 ## 0.2.16
 - Bug fixes related to namespaces. 
 
