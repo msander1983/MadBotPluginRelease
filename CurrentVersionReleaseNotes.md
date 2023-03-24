@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.16
+- Bug fixes related to namespaces. 
+
 ## 0.2.15
 - Changes to a single table cell no longer causes the entire table to appear as new. 
 
