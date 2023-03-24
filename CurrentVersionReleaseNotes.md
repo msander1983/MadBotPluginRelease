@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.18
+- Bug fix in the Custom Prompt function.
+
 ## 0.2.17
 - You can now write your own prompt to edit or generate content. 
 
