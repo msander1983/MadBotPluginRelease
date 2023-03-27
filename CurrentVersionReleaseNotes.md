@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.2.19
+- MadBot Chat now available. 
+
 ## 0.2.18
 - Bug fix in the Custom Prompt function.
 
