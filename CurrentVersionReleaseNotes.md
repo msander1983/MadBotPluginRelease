@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.3.0
+- The MadBot plugin now uses GPT-4 instead of GPT-3.5. 
+
 ## 0.2.19
 - MadBot Chat now available. 
 
