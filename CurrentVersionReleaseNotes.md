@@ -1,5 +1,10 @@
 ﻿# Release Notes 
 
+## 0.3.1
+- Updates to the "Convert to Instructions" prompt to make it work better. 
+- Changes to support Flare installations with the Acrolinx plugin installed. 
+- The "inspect changes" window now shows spaces between characters. 
+
 ## 0.3.0
 - The MadBot plugin now uses GPT-4 instead of GPT-3.5. 
 
