@@ -1,5 +1,11 @@
 ﻿# Release Notes 
 
+## 0.3.4
+- Bug fixes. 
+
+## 0.3.3
+- Bug fixes. Code cleanup.
+
 ## 0.3.2
 - Bug fixes.
 
