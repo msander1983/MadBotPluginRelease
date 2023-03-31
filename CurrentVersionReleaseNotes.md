@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.3.2
+- Bug fixes.
+
 ## 0.3.1
 - Updates to the "Convert to Instructions" prompt to make it work better. 
 - Changes to support Flare installations with the Acrolinx plugin installed. 
