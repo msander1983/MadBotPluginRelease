@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.3.5
+- Bug fixes. New prompt. 
+
 ## 0.3.4
 - Bug fixes. 
 
