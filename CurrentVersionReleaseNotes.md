@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.3.6
+- Deployed the MadBot API on Azure for improved security and performance. 
+
 ## 0.3.5
 - Bug fixes. New prompt. 
 
