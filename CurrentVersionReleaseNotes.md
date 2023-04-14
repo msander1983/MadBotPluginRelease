@@ -1,5 +1,10 @@
 ﻿# Release Notes 
 
+## 0.3.8
+- Bug fixes. 
+- Cosmetic changes.
+- You can now save custom prompts for easier use and sharing across your team. 
+
 ## 0.3.7
 - Function to convert the selection to Title Case.
 
