@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.3.7
+- Function to convert the selection to Title Case.
+
 ## 0.3.6
 - Deployed the MadBot API on Azure for improved security and performance. 
 
