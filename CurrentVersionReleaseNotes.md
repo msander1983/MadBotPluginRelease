@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.3.9
+- Performance improvements. 
+
 ## 0.3.8
 - Bug fixes. 
 - Cosmetic changes.
