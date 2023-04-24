@@ -1,5 +1,9 @@
 ﻿# Release Notes 
 
+## 0.3.11
+- Icons changed. 
+- Processing dialog improved. 
+
 ## 0.3.10
 - You can now deactivate your license in case you need to move to a new PC.
 - You can now view the percentage of the used quota for the current period. 
