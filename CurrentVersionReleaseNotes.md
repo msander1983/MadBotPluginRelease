@@ -1,5 +1,9 @@
 ﻿# Release Notes 
 
+## 0.3.12
+- Support for Flare 2023
+- You can now more easily add custom commands. 
+
 ## 0.3.11
 - Icons changed. 
 - Processing dialog improved. 
