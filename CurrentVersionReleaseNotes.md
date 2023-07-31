@@ -1,5 +1,8 @@
 ﻿# Release Notes 
 
+## 0.3.13
+- EULA update
+
 ## 0.3.12
 - Support for Flare 2023
 - You can now more easily add custom commands. 
